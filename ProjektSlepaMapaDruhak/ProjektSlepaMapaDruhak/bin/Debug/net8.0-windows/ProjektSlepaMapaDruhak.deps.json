@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProjektSlepaMapaDruhak/1.0.0": {
+        "runtime": {
+          "ProjektSlepaMapaDruhak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjektSlepaMapaDruhak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
